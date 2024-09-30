@@ -8,6 +8,13 @@ A simple note-taking application built with Python's Tkinter. This app allows us
 - Search notes by title and tags
 - Persistent storage of notes in a JSON file
 
+- ## Screenshots
+- ![image](https://github.com/user-attachments/assets/543d58d7-9f60-4d23-9ab0-c3d9d7a7692c)
+
+- ![image](https://github.com/user-attachments/assets/884a64a1-b171-4c9f-93db-d49e1b825db1)
+
+
+
 ## Installation
 
 1. Clone the repository:
