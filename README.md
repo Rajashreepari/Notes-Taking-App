@@ -24,19 +24,22 @@ A simple note-taking application built with Python's Tkinter. This app allows us
 
 2. Navigate to the project directory:
   
-  cd note-taking-app
+     cd note-taking-app
   
 3. Run the application:
   
-  python app.py
+     python app.py
   
  ## Usage
  
-Add notes by filling in the title, content, and tags.
-Select a note from the list to view, update, or delete it.
-Use the search bar to quickly find notes.
+1.Add notes by filling in the title, content, and tags.
+
+2.Select a note from the list to view, update, or delete it.
+
+3.Use the search bar to quickly find notes.
 
 ## Requirements
 
-Python 3.x
-Tkinter (comes pre-installed with Python)
+1.Python 3.x
+
+2.Tkinter (comes pre-installed with Python)
