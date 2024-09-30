@@ -14,13 +14,20 @@ A simple note-taking application built with Python's Tkinter. This app allows us
    git clone https://github.com/yourusername/note-taking-app.git
 
   Navigate to the project directory:
+  
   cd note-taking-app
+  
   Run the application:
+  
   python app.py
-  Usage
+  
+ ## Usage
+ 
 Add notes by filling in the title, content, and tags.
 Select a note from the list to view, update, or delete it.
 Use the search bar to quickly find notes.
-Requirements
+
+## Requirements
+
 Python 3.x
 Tkinter (comes pre-installed with Python)
